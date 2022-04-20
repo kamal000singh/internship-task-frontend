@@ -5,7 +5,6 @@ import Airlines from './components/Airlines';
 import Home from './components/Home';
 import Navbar from './components/Navbar';
 import UserList from './components/UserList';
-import PassengerList from './components/PassengerList';
 
 function App() {
   return (
